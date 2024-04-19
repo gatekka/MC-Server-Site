@@ -6,7 +6,7 @@ layout: home
 
 # Server Information
 
-- Minecraft Server IP: [`stayhydrated.ddns.net`](https://api.loohpjames.com/serverbanner.png?ip=stayhydrated.ddns.net)
+- Minecraft Server IP: `stayhydrated.ddns.net`
 
 ![Server Banner](https://api.loohpjames.com/serverbanner.png?ip=stayhydrated.ddns.net)
 
