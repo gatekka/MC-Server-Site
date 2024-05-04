@@ -4,6 +4,8 @@
 layout: home
 ---
 
+![announcement](https://cdn.discordapp.com/attachments/244698941839507456/1236288018533453874/announcement.png?ex=66377670&is=663624f0&hm=48b3283f9ff6561d146770f8c8f1eaffb45a3c024747af12522a8b2471e1d5f4&)
+
 # Server Information
 
 - Minecraft Server IP: `stayhydrated.ddns.net`

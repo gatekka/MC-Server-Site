@@ -4,7 +4,7 @@ author: Chris
 layout: post
 ---
 
-**Installing mods is optional** as you should be able to join the server even without them. However, to ensure compatibility and avoid any issues when connecting to the server, I recommend following these steps as they will help streamline the process of installing mods.
+**Mods must be installed to join the server.** To ensure compatibility and avoid any issues when connecting to the server, I recommend following these steps as they will help streamline the process of installing mods.
 
 1. [Download & Open "Fabric Launcher" (Click here to download)](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.exe)
     - Minecraft Version: *`v1.20.4`*
