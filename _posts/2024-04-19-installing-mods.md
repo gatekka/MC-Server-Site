@@ -6,9 +6,10 @@ layout: post
 
 **Mods must be installed to join the server.** To ensure compatibility and avoid any issues when connecting to the server, I recommend following these steps as they will help streamline the process of installing mods.
 
-1. [Download & Open "Fabric Launcher" (Click here to download)](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.exe)
+1. [Download & Open "Fabric Launcher" (Click here to download)](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.exe)\
+Make sure the following versions are selected:
     - Minecraft Version: *`v1.20.4`*
-    - Loader Version: *`0.15.10`*
+    - Loader Version: *`v0.15.10`*
     - Check *"Create Profile"*, install, and exit when finished.
 
 2. [Download "AutoModPack" (Click here to download)](https://cdn.modrinth.com/data/k68glP2e/versions/1ZPaL1PB/automodpack-fabric-4.0.0-beta1-1.20.4.jar)

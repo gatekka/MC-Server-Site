@@ -14,6 +14,6 @@ layout: home
 
 ## Server Web Maps
 
-- Web Map #1 (Bluemap): [`stayhydrated.ddns.net:8100`](http://stayhydrated.ddns.net:8100)
+- Web Map #1 (BlueMap): [`stayhydrated.ddns.net:8100`](http://stayhydrated.ddns.net:8100)
 
 - ~~Web Map #2 (DynMap): [`stayhydrated.ddns.net:8123`](http://stayhydrated.ddns.net:8123)~~
